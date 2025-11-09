@@ -7,6 +7,19 @@
 
 I love diving into cybersecurity, cloud infrastructure, and automation projects. I enjoy exploring how infrastructure, code, and security fit together to make technology run smoothly. Whether I'm configuring systems, learning new tools, or writing scripts, I'm always focused on building projects that are secure and scalable. I believe progress comes from hands-on learning and the drive to keep pushing your own limits.
 
+<h2 align="left">Repositories</h2>
+<ul>
+    <li>
+      <strong><a href="https://github.com/samglucas/hacking-writeups">hacking-writeups</a></strong><br>
+    </li>
+    <li>
+      <strong><a href="https://github.com/samglucas/networking">networking</a></strong><br>
+    </li>
+    <li>
+      <strong><a href="https://github.com/samglucas/programming">programming</a></strong><br>
+    </li>
+  </ul>
+  
 <h2 align="left">🎓 Certifications</h2>
 
 <div align="center">
